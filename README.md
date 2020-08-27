@@ -1,4 +1,4 @@
-# Covid-19_Data_Analysis using Python
+# Covid-19 Data Analysis using Python
 
 - Project from Coursera 
 - Dataset taken from January to April
